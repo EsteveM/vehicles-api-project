@@ -69,7 +69,7 @@ The procedure to obtain a functional a copy of the project on your local machine
 	* `java -jar PriceMicroservice/target/PriceMicroservice-0.0.1-SNAPSHOT.jar`. This starts the PRINCING-SERVICE microservice on port 8762:
 	![PriceMicroServicerun](/ScreenShots/PriceMicroServicerun.png)
 	* It is possible to check the PRICING-SERVICE microservice executing a POSTMAN request:
-	![PriceMicroServicecheck](/ScreenShots/PriceMicroServicecheck.png)
+	![PriceMicroServicecheck](/ScreenShots/PriceMicroservicecheck.png)
 	* For your information, the PRICING-SERVICE microservice is also registered with Eureka, as you can see in the Eureka console:
 	![eurekaconsole2](/ScreenShots/eurekaconsole2.png)
 	* `java -jar vehicles-api/target/vehicles-api-0.0.1-SNAPSHOT.jar`. This starts the vehicles API on port 8080:
